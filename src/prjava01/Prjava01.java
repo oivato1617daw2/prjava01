@@ -22,6 +22,6 @@ public class Prjava01 {
             bw.write("  </body>");bw.newLine();
             bw.write("</html>");bw.newLine();
             bw.close();
-        }
+        } 
     }
 }
